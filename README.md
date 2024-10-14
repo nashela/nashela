@@ -11,7 +11,7 @@
 <img align="left" src="https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black"/>
 
-<br><br><br><br>
+<br><br>
 <!--
 **nashela/nashela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
