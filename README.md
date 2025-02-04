@@ -7,7 +7,7 @@
 <!-- <img align="left" src="https://img.shields.io/badge/kotlin-%230095D5.svg?logo=kotlin&logoColor=white"/> -->
 <img align="left" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?logo=visual-studio-code&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"/>
+<!-- <img align="left" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"/> -->
 <img align="left" src="https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black"/>
 
