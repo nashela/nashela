@@ -4,12 +4,16 @@
 <img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white"/>
-<!-- <img align="left" src="https://img.shields.io/badge/kotlin-%230095D5.svg?logo=kotlin&logoColor=white"/> -->
+<img align="left" src="https://img.shields.io/badge/kotlin-%230095D5.svg?logo=kotlin&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?logo=visual-studio-code&logoColor=white"/>
 <!-- <img align="left" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"/> -->
-<img align="left" src="https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white"/>
+<!-- <img align="left" src="https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white"/> -->
+<img align="left" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white&style=flat" alt="Tailwind CSS"/>
 <img align="left" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black"/>
+<img align="left" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/Canva-00C4CC.svg?logo=Canva&logoColor=white"/>
+
 
 <br><br>
 <!--
