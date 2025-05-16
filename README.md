@@ -12,7 +12,7 @@
 <img align="left" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white&style=flat" alt="Tailwind CSS"/>
 <img align="left" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black"/>
 <img align="left" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/Canva-00C4CC.svg?logo=Canva&logoColor=white"/>
+<!-- <img align="left" src="https://img.shields.io/badge/Canva-00C4CC.svg?logo=Canva&logoColor=white"/> -->
 
 
 <br><br>
