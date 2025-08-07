@@ -1,21 +1,58 @@
 ![Internet not working gif](https://github.com/saadeghi/saadeghi/raw/master/dino.gif)  
-<br>
 
-<img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/kotlin-%230095D5.svg?logo=kotlin&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?logo=visual-studio-code&logoColor=white"/>
-<!-- <img align="left" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"/> -->
-<!-- <img align="left" src="https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white"/> -->
-<img align="left" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white&style=flat" alt="Tailwind CSS"/>
-<img align="left" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black"/>
-<img align="left" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white"/>
-<!-- <img align="left" src="https://img.shields.io/badge/Canva-00C4CC.svg?logo=Canva&logoColor=white"/> -->
+Tentang Saya
 
+Saya adalah seorang pengembang dan desainer visual yang memiliki ketertarikan tinggi pada dunia teknologi dan kreativitas. Meskipun saya merupakan penyandang hard of hearing, hal tersebut tidak menghalangi semangat saya untuk terus belajar dan berkarya di bidang ini. Saya terbiasa bekerja dengan berbagai alat pengembangan perangkat lunak dan desain, baik untuk proyek pribadi maupun kolaboratif. Beberapa hal yang saya kuasai: 
 
-<br><br>
+Programming
+- Android Development dengan **Java** dan **Kotlin**
+- Backend & Authentication menggunakan **Firebase**
+- Web Development (Frontend): **HTML**, **CSS**, **JavaScript**
+- Database: **MySQL**
+- Version Control: **Git**
+
+UI/UX & Desain
+- **Figma** untuk prototyping dan UI modern
+- **Balsamiq** untuk wireframing yang cepat
+- **Canva** untuk desain grafis ringan seperti poster, amplop, dan media sosial
+
+---
+
+<h1 align="center">✨ Starred Topics ✨</h1>
+
+<p align="center">
+  <!-- Programming & Platforms -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+
+  <!-- Design Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Balsamiq_logo.png" alt="balsamiq" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_logo_2021.svg" alt="canva" width="40" height="40"/>
+</p>
+
+<!--### 📫 Kontak
+
+- 🌐 [Portfolio](#)
+- 💌 [Email](#)
+- 💼 [LinkedIn](#)
+
+--->
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark" alt="GitHub stats" />
+</p>
+
 <!--
 **nashela/nashela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
