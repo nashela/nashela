@@ -3,7 +3,7 @@
 <h2>⚡Tentang Saya </br></h2>
 Saya adalah seorang pengembang dan desainer visual yang memiliki ketertarikan tinggi pada dunia teknologi dan kreativitas. Meskipun saya merupakan penyandang hard of hearing, hal tersebut tidak menghalangi semangat saya untuk terus belajar dan berkarya di bidang ini. Saya terbiasa bekerja dengan berbagai alat pengembangan perangkat lunak dan desain, baik untuk proyek pribadi maupun kolaborasi.
 
-<h2>🌱Beberapa hal yang saya kuasai:</br> </h2>
+<h2>🌱Beberapa hal yang di kuasai:</br> </h2>
   #Programming</br> 
 <ul>
   <li><p>Android Development dengan <strong>Java</strong> dan <strong>Kotlin</strong></p></li>
@@ -14,9 +14,12 @@ Saya adalah seorang pengembang dan desainer visual yang memiliki ketertarikan ti
 </ul>
 </br> 
   #UI/UX & Desain</br> 
-    - **Figma** untuk prototyping dan UI modern</br> 
-    - **Balsamiq** untuk wireframing yang cepat</br> 
-    - **Canva** untuk desain grafis ringan seperti poster, amplop, dan media sosial</br> 
+<ul>
+  <li><p><strong>Figma</strong> untuk prototyping dan UI modern</p></li>
+  <li><p><strong>Balsamiq</strong> untuk wireframing yang cepat</p></li>
+  <li><p><strong>Canva</strong> untuk desain grafis ringan</p></li>
+</ul>
+
 
 ---
 
