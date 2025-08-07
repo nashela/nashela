@@ -1,9 +1,9 @@
 ![Internet not working gif](https://github.com/saadeghi/saadeghi/raw/master/dino.gif)  
 
-⚡Tentang Saya 
+⚡Tentang Saya </br>
 Saya adalah seorang pengembang dan desainer visual yang memiliki ketertarikan tinggi pada dunia teknologi dan kreativitas. Meskipun saya merupakan penyandang hard of hearing, hal tersebut tidak menghalangi semangat saya untuk terus belajar dan berkarya di bidang ini. Saya terbiasa bekerja dengan berbagai alat pengembangan perangkat lunak dan desain, baik untuk proyek pribadi maupun kolaborasi.
 
-🌱Beberapa hal yang saya kuasai: 
+🌱Beberapa hal yang saya kuasai:</br> 
   #Programming
     - Android Development dengan **Java** dan **Kotlin**
     - Backend & Authentication menggunakan **Firebase**
