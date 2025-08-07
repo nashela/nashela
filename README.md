@@ -1,9 +1,9 @@
 ![Internet not working gif](https://github.com/saadeghi/saadeghi/raw/master/dino.gif)  
 </br> 
-<h1>⚡Tentang Saya </br></h1>
+<h2>⚡Tentang Saya </br></h2>
 Saya adalah seorang pengembang dan desainer visual yang memiliki ketertarikan tinggi pada dunia teknologi dan kreativitas. Meskipun saya merupakan penyandang hard of hearing, hal tersebut tidak menghalangi semangat saya untuk terus belajar dan berkarya di bidang ini. Saya terbiasa bekerja dengan berbagai alat pengembangan perangkat lunak dan desain, baik untuk proyek pribadi maupun kolaborasi.
 
-<h1>🌱Beberapa hal yang saya kuasai:</br> </h1>
+<h2>🌱Beberapa hal yang saya kuasai:</br> </h2>
   #Programming</br> 
     - Android Development dengan **Java** dan **Kotlin**</br> 
     - Backend & Authentication menggunakan **Firebase**</br> 
@@ -20,18 +20,19 @@ Saya adalah seorang pengembang dan desainer visual yang memiliki ketertarikan ti
 
 <!-- Tech Stack Badges (1 baris) -->
 <span>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC.svg?logo=Canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Balsamiq-grey?logo=balsamiq&logoColor=white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+
+  <!-- Design Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
 </span>
 
 
