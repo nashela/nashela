@@ -5,11 +5,13 @@ Saya adalah seorang pengembang dan desainer visual yang memiliki ketertarikan ti
 
 <h2>🌱Beberapa hal yang saya kuasai:</br> </h2>
   #Programming</br> 
-    - Android Development dengan **Java** dan **Kotlin**</br> 
-    - Backend & Authentication menggunakan **Firebase**</br> 
-    - Web Development (Frontend): **HTML**, **CSS**, **JavaScript**</br> 
-    - Database: **MySQL**</br> 
-    - Version Control: **Git**</br> 
+<ul>
+  <li><p>Android Development dengan <strong>Java</strong> dan <strong>Kotlin</strong></p></li>
+  <li><p>Backend & Authentication menggunakan <strong>Firebase</strong></p></li>
+  <li><p>Web Development (Frontend): <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong></p></li>
+  <li><p>Database: <strong>MySQL</strong></p></li>
+  <li><p>Version Control: <strong>Git</strong></p></li>
+</ul>
 </br> 
   #UI/UX & Desain</br> 
     - **Figma** untuk prototyping dan UI modern</br> 
