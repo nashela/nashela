@@ -5,6 +5,7 @@ Saya adalah seorang android developer dan desainer yang memiliki ketertarikan ti
 ---
 
 <!-- Tech Stack Badges (1 baris) -->
+<br>
 <span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
