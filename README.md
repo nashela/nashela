@@ -1,26 +1,7 @@
 ![Internet not working gif](https://github.com/saadeghi/saadeghi/raw/master/dino.gif)  
 </br> 
 <h2>⚡Tentang Saya </br></h2>
-Saya adalah seorang pengembang dan desainer yang memiliki ketertarikan tinggi pada dunia teknologi dan kreativitas. Meskipun saya merupakan penyandang hard of hearing, hal tersebut tidak menghalangi semangat saya untuk terus belajar dan berkarya di bidang ini. Saya terbiasa bekerja dengan berbagai alat pengembangan perangkat lunak dan desain, baik untuk proyek pribadi maupun kolaborasi.
-
-<h2>🌱Beberapa hal yang di kuasai:</br> </h2>
-  #Programming</br> 
-<ul>
-  <li><p>Android Development dengan <strong>Java</strong> dan <strong>Kotlin</strong></p></li>
-  <li><p>Backend & Authentication menggunakan <strong>Firebase</strong></p></li>
-  <li><p>Web Development (Frontend): <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong></p></li>
-  <li><p>Database: <strong>MySQL</strong></p></li>
-  <li><p>Version Control: <strong>Git</strong></p></li>
-</ul>
-</br> 
-  #UI/UX & Desain</br> 
-<ul>
-  <li><p><strong>Figma</strong> untuk prototyping dan UI modern</p></li>
-  <li><p><strong>Balsamiq</strong> untuk wireframing yang cepat</p></li>
-  <li><p><strong>Canva</strong> untuk desain grafis ringan</p></li>
-</ul>
-
-
+Saya adalah seorang android developer dan desainer yang memiliki ketertarikan tinggi pada dunia teknologi dan kreativitas. Meskipun saya merupakan penyandang hard of hearing, hal tersebut tidak menghalangi semangat saya untuk terus belajar dan berkarya di bidang teknologi. Saya terbiasa bekerja dengan berbagai alat pengembangan perangkat lunak dan desain, baik untuk proyek pribadi maupun kolaborasi.
 ---
 
 <!-- Tech Stack Badges (1 baris) -->
