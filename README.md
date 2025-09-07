@@ -2,10 +2,9 @@
 </br> 
 <h2>⚡Tentang Saya </br></h2>
 Saya adalah seorang android developer dan desainer yang memiliki ketertarikan tinggi pada dunia teknologi dan kreativitas. Meskipun saya merupakan penyandang hard of hearing, hal tersebut tidak menghalangi semangat saya untuk terus belajar dan berkarya di bidang teknologi. Saya terbiasa bekerja dengan berbagai alat pengembangan perangkat lunak dan desain, baik untuk proyek pribadi maupun kolaborasi.
----
 
 <!-- Tech Stack Badges (1 baris) -->
-<br>
+</br></br>
 <span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
