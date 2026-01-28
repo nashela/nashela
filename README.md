@@ -30,6 +30,6 @@ Saya adalah seorang android developer dan desainer yang memiliki ketertarikan ti
     ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
     ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white)
 
-  * **IDEs & Editors**:
+* **IDEs & Editors**:
     ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
     ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=flat&logo=android%20studio&logoColor=white)
