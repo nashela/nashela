@@ -1,7 +1,7 @@
 ![Internet not working gif](https://github.com/saadeghi/saadeghi/raw/master/dino.gif)  
 </br> 
-<h2>⚡Tentang Saya </br></h2>
-Saya adalah seorang android developer dan desainer yang memiliki ketertarikan tinggi pada dunia teknologi dan kreativitas. Meskipun saya merupakan penyandang hard of hearing, hal tersebut tidak menghalangi semangat saya untuk terus belajar dan berkarya di bidang teknologi. Saya terbiasa bekerja dengan berbagai alat pengembangan perangkat lunak dan desain, baik untuk proyek pribadi maupun kolaborasi.
+<h2>⚡About Me </br></h2>
+I am an Android developer and designer with a high passion for technology and creativity. Although I am hard of hearing, it has never stood in the way of my enthusiasm to continuously learn and create in the tech field. I am well-versed in utilizing various software development and design tools, both for personal projects and collaborative work.
 
 <!-- Tech Stack -->
 ### 💻 Tech Stack
