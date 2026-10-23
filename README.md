@@ -14,6 +14,7 @@ I am an Android developer and designer with a high passion for technology and cr
     ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
     ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
     ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+    ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
 
 * **Frameworks / Libraries**:
     ![Next.js](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
